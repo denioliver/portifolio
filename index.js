@@ -4,11 +4,11 @@ import './estilo.css'
 import ReactDOM from 'react-dom';
 import React from 'react';
 
-import Cabecalho from './componentes/Cabecalho';
-import Sobre_mim from './componentes/Sobre_mim';
-import Projetos from './componentes/Projetos'
-import Contatos from './componentes/Contatos';
-import Rodape from './componentes/Rodape';
+import Cabecalho from './src/componentes/Cabecalho';
+import Sobre_mim from './src/componentes/Sobre_mim';
+import Projetos from './src/componentes/Projetos'
+import Contatos from './src/componentes/Contatos';
+import Rodape from './src/componentes/Rodape';
 
 
 ReactDOM.render(
