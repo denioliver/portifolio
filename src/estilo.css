@@ -1,0 +1,391 @@
+@charset "UTF-8";
+
+
+@media screen and (max-width: 768px)
+{
+    nav >a {
+        margin: 5px;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 1000;
+        padding: 3px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color:  rgb(109, 109, 109);
+        translate: 2s;}
+        body{
+            font-family:Arial, Helvetica, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+            margin: 0px;
+            height: 100vh;
+            width: 100vw;
+            background-color: gray;
+            background-image: url("img/fundo2.jpg");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size:cover;
+            background-attachment: fixed;
+            
+        
+        }
+        header {
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.699);
+            margin: 0px;
+            text-align: center;
+        }
+        img{
+            padding: 20px;
+            
+        }
+        nav{
+            background-color: rgb(14, 13, 13);
+            padding: 13px;
+            margin-bottom:  30px;
+            box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+        }
+                                                                                                       
+        nav > a:hover{
+            color: rgba(177, 176, 174, 0.699);
+            transition-duration: 0.35s;
+        }
+        h1{ 
+            font-size: 33px;
+            padding: 20px;
+           
+        }
+        section {
+            background-color: rgb(14, 13, 13);
+            color: rgba(177, 176, 174, 0.699); ;
+            margin: 0px auto;
+            max-width: 800px;
+            text-align: center;
+            padding: 10px;
+        }
+        section > p {
+            padding-top: 30px ;
+            padding-bottom: 10px;
+            line-height: 23px;
+            font-size: 19px;
+        }
+        section > div#esporte{
+            background-color: rgb(19, 18, 18);
+            background-image: url('img/deni-skate.jpg');
+            height: 100vh;
+            position: relative;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-attachment: fixed;
+            margin: -10px;
+        }
+        div#esporte > p{
+            background-color:  rgb(14, 13, 13);
+            padding: 25px;
+        
+            font-size: 22px;
+            color: rgb(117, 116, 116);
+           
+            position: absolute;
+            margin-top: 50%;
+            margin-left: 50%;
+            transform: translate(-50%, -50%);
+            text-shadow:  2px 2px 0px black;
+            
+        }
+        section#sobremim{
+            border-radius:  10px 10px 0px 0px;
+        
+        }
+        section#projetos {
+            background-color: rgb(24, 23, 23, 0.945);
+            
+        }
+        section#projetos > div > p.projeto > img{
+            max-width: 250px;
+            
+            margin: 0px;
+            padding: 0px;
+            position: relative;
+            
+            
+            
+        
+        }
+        section#projetos > div.projeto{
+            padding: 0px;
+            max-height: 350px ;
+            border-radius: 5px;
+        }   
+        p.projeto{
+            max-width: 500px;
+            padding: 10px;
+            font-weight: bolder;
+            line-height: 40px;
+            font-size: 18px;
+        }
+        section#projetos > div {
+            max-width: 300px;
+            padding: 100px 30px ;
+            background-color: rgb(24, 24, 23);
+            margin: 50px auto ;
+            box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.466);
+            margin-top: 10px;
+            border-radius: 10px;
+            
+        }
+        p.projeto > a{
+            max-width: 250px;
+            position: relative;
+            display: block;
+            background-color: rgb(48, 47, 47);
+            padding: 10px;
+            border-radius: 20px;
+            box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.705);
+            color: rgb(128, 125, 125);
+            text-decoration: none;
+            text-shadow: 1px 1px 2px black;
+            margin: auto;
+            font-size: 20px;
+        }
+        p.projeto > a:hover{
+            color: rgb(185, 184, 184);
+            
+        }
+        section > div#contatos{
+            max-width: 400px;
+            margin: auto;
+           
+        }
+        section > div#contatos > p {
+            
+            font-size: 18px;
+            background-color: rgb(177, 176, 176);
+            color: black;
+            margin: 10px;
+            padding: 18px;
+            border-radius: 50px;
+            box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.452);
+           
+        }
+        section > div#contatos > p > a {
+            text-decoration: none;
+            color: black;
+        }
+        section#programas > div > img.normal{
+            width: 50px;
+            padding: 30px;
+            margin: 5px;
+        }
+        section#programas > div > img#js{
+            width: 70px;
+        }
+        footer {
+            width: 100%;
+            margin: 0px;
+            text-align: center;
+            background-color:black;
+            color: white;
+            position: absolute;
+            
+        }
+        footer > p{
+            margin: 0px;
+            font-size: 15px;
+            padding: 6px;
+        }
+         
+   
+
+
+}
+@media screen and (min-width: 768px) {
+body{
+    font-family:Arial, Helvetica, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+    background-image: url("img/fundo2.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    
+
+}
+header {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.651);
+    margin: 0px;
+    text-align: center;
+}
+img{
+    padding: 20px;
+}
+nav{
+    background-color: rgb(12, 12, 12);
+    padding: 13px;
+    margin-bottom:  30px;
+    box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+}
+nav >a {
+    margin: 20px;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 1000;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(122, 122, 122);
+    translate: 2s;
+    
+    
+}
+nav > a:hover{
+    color: rgb(204, 203, 203);
+    transition-duration: 0.35s;
+}
+h1{ 
+    font-size: 33px;
+    padding: 20px;
+    color: rgb(146, 145, 145);
+   
+}
+section {
+    background-color:  rgb(12, 12, 12);
+    margin: 0px auto;
+    max-width: 800px;
+    text-align: center;
+    padding: 10px;
+}
+section > p {
+    padding-top: 30px ;
+    padding-bottom: 10px;
+    line-height: 23px;
+    font-size: 19px;
+    color: rgb(136, 134, 134);
+}
+section > div#esporte{
+    background-color: rgb(12, 12, 12);
+    background-image: url('img/deni-skate.jpg');
+    height: 100vh;
+    position: relative;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    margin: -10px;
+}
+div#esporte > p{
+    background-color: rgba(0, 0, 0, 0.473); 
+    padding: 25px;
+
+    font-size: 22px;
+    color: rgb(209, 205, 205);
+   
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow:  2px 2px 0px black;
+    
+}
+section#sobremim{
+    border-radius:  10px 10px 0px 0px;
+
+}
+section#projetos {
+    background-color: rgba(24, 23, 23, 0.945);
+    
+}
+section#projetos > div > p.projeto > img{
+    max-width: 250px;
+    
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    
+    
+    
+
+}
+section#projetos > div.projeto{
+    padding: 0px;
+    max-height: 350px ;
+    border-radius: 5px;
+    color: rgb(122, 122, 122);
+}   
+p.projeto{
+    max-width: 500px;
+    padding: 10px;
+    font-weight: bolder;
+    line-height: 40px;
+    font-size: 18px;
+}
+section#projetos > div {
+    max-width: 300px;
+    padding: 100px 30px ;
+    background-color: rgb(14, 13, 13);
+    margin: 50px auto ;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.466);
+    margin-top: 10px;
+    border-radius: 10px;
+    color: rgb(85, 85, 85);
+    
+}
+p.projeto > a{
+    max-width: 250px;
+    position: relative;
+    display: block;
+    background-color: rgb(92, 92, 91);
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.678);
+    color: rgb(150, 150, 150);
+    text-decoration: none;
+    text-shadow: 1px 1px 2px black;
+    margin: auto;
+    font-size: 20px;
+}
+p.projeto > a:hover{
+    color: rgb(192, 191, 191);
+    
+}
+section > div#contatos{
+    max-width: 400px;
+    margin: auto;
+   
+}
+section > div#contatos > p {
+    font-size: 22px;
+    background-color: rgba(177, 176, 176);
+    margin: 10px;
+    padding: 18px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.452);
+   
+}
+section > div#contatos > p > a {
+    text-decoration: none;
+    color: black;
+}
+section#programas > div > img.normal{
+    width: 100px;
+    padding: 30px;
+    margin: 5px;
+}
+section#programas > div > img#js{
+    width: 130px;
+}
+footer {
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    background-color:black;
+    color: white;
+    position: absolute;
+    
+}
+footer > p{
+    margin: 0px;
+    padding: 6px;
+}
+}

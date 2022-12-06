@@ -1,17 +1,24 @@
+import './estilo.css'
+
+
+import ReactDOM from 'react-dom';
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+import Cabecalho from './componentes/Cabecalho';
+import Sobre_mim from './componentes/Sobre_mim';
+import Projetos from './componentes/Projetos'
+import Contatos from './componentes/Contatos';
+import Rodape from './componentes/Rodape';
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+ReactDOM.render(
+
+    <div>
+        <Cabecalho />
+        <Sobre_mim />
+        <Projetos />
+        <Contatos />
+        <Rodape />
+    </div>,
+    document.getElementById('root')
+)
