@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portifolio/static/css/main.d858dc36.css",
+    "main.js": "/portifolio/static/js/main.8d25fdcd.js",
+    "static/media/tela-projeto-rede-sociais.jpg": "/portifolio/static/media/tela-projeto-rede-sociais.0985231dfc7d0ac06df8.jpg",
+    "static/media/logo-photoshopcs3.png": "/portifolio/static/media/logo-photoshopcs3.309cc5f7bbc54aba2f0f.png",
+    "static/media/projeto-formulario.jpg": "/portifolio/static/media/projeto-formulario.f809c18eebb1e809b49f.jpg",
+    "static/media/deni-skate.jpg": "/portifolio/static/media/deni-skate.75f472913b50461b6eac.jpg",
+    "static/media/logo-coreldraw.png": "/portifolio/static/media/logo-coreldraw.aaaf4f990bba2517be57.png",
+    "static/media/logo_react.png": "/portifolio/static/media/logo_react.616306ac5e060868cafc.png",
+    "static/media/fundo2.jpg": "/portifolio/static/media/fundo2.8028f3f3155fe45122ac.jpg",
+    "static/media/logo-css3.png": "/portifolio/static/media/logo-css3.6c8e2f6c9df1aa8c548a.png",
+    "static/media/logo-html5.png": "/portifolio/static/media/logo-html5.17a29567fb8d7aaf67b6.png",
+    "static/media/deni_logo2.png": "/portifolio/static/media/deni_logo2.14beb1fbcdbe7c374740.png",
+    "static/media/logo-javascript.png": "/portifolio/static/media/logo-javascript.8aeb306794f238ce651b.png",
+    "index.html": "/portifolio/index.html",
+    "main.d858dc36.css.map": "/portifolio/static/css/main.d858dc36.css.map",
+    "main.8d25fdcd.js.map": "/portifolio/static/js/main.8d25fdcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d858dc36.css",
+    "static/js/main.8d25fdcd.js"
+  ]
+}
