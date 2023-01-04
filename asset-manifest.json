@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portifolio/static/css/main.d858dc36.css",
-    "main.js": "/portifolio/static/js/main.8d25fdcd.js",
+    "main.js": "/portifolio/static/js/main.2ca88055.js",
     "static/media/tela-projeto-rede-sociais.jpg": "/portifolio/static/media/tela-projeto-rede-sociais.0985231dfc7d0ac06df8.jpg",
     "static/media/logo-photoshopcs3.png": "/portifolio/static/media/logo-photoshopcs3.309cc5f7bbc54aba2f0f.png",
     "static/media/projeto-formulario.jpg": "/portifolio/static/media/projeto-formulario.f809c18eebb1e809b49f.jpg",
@@ -15,10 +15,10 @@
     "static/media/logo-javascript.png": "/portifolio/static/media/logo-javascript.8aeb306794f238ce651b.png",
     "index.html": "/portifolio/index.html",
     "main.d858dc36.css.map": "/portifolio/static/css/main.d858dc36.css.map",
-    "main.8d25fdcd.js.map": "/portifolio/static/js/main.8d25fdcd.js.map"
+    "main.2ca88055.js.map": "/portifolio/static/js/main.2ca88055.js.map"
   },
   "entrypoints": [
     "static/css/main.d858dc36.css",
-    "static/js/main.8d25fdcd.js"
+    "static/js/main.2ca88055.js"
   ]
 }
