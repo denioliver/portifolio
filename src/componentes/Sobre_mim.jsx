@@ -9,7 +9,6 @@ export default function Sobre_mim() {
                 </h1>
                 <p>
                     Me chamo <strong>Denivan Oliveira dos Santos</strong>, <br />
-                    mas pode me chamar de <strong>Deny Oliver</strong> <br />
                     Como podem ver sou desenvolvedor web front-end. <br />
                     Tambem trabalho com as ferramentas do CorelDraw e Photoshop. <br />
                     Com tudo, sou um apaixonado por artes, esportes e por tecnoligias .
@@ -20,11 +19,6 @@ export default function Sobre_mim() {
                     onde tristesas e alegrias se misturam.
                 </p>
                 <div id='esporte'>
-                    <p>
-                        No esporte me transformo. <br />
-                        a vontade de vencer, de me superar <br />
-                        é algo maior.
-                    </p>
                 </div>
                 <p>
                     Como programador sonho em fazer parte de grandes projetos, <br />

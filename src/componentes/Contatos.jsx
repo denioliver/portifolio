@@ -12,8 +12,8 @@ export default function Contatos() {
             <section>
                 <div id='contatos'>
                     <p>
-                        <a href="https://wa.me/5575988554648" target="blank" >
-                            <strong> WhatsApp:</strong> +55 75 98855-4648</a>
+                        <a href="https://wa.me/5575991489231" target="blank" >
+                            <strong> WhatsApp:</strong> +55 75 9148-9231</a>
                     </p>
                     <p>
                         <a href="mailto:denyoliver777@gmail.com">
@@ -21,7 +21,7 @@ export default function Contatos() {
                     </p>
                     <p>
                         <a href="https://github.com/denioliver" target="blank" >
-                            <strong>Github:</strong> Deni Oliver</a>
+                            <strong>Github:</strong> Denivan Oliveira dos Santos</a>
                     </p>
                 </div>
             </section>
